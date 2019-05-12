@@ -1,1 +1,1 @@
-# JupyterNotebookFoldSearch
+# FoldSearchNotebook
